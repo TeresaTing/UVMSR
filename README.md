@@ -6,7 +6,7 @@ This repository provides the code for the methods in our paper __'UVMSR: a novel
 
 
 
-__MBSFC network structure：__
+__UVMSR network structure：__
 
 
 ![UVMSR-第 1 页](https://github.com/user-attachments/assets/ba07283a-384b-4e1f-bc28-ea389aa67567)
